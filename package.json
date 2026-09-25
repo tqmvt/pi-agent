@@ -1,0 +1,20 @@
+{
+  "name": "pi-agent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@mariozechner/pi-agent-core": "^0.73.1",
+    "@mariozechner/pi-ai": "^0.73.1",
+    "@mariozechner/pi-coding-agent": "^0.73.1",
+    "@mariozechner/pi-tui": "^0.73.1",
+    "chalk": "^6.0.0"
+  }
+}
